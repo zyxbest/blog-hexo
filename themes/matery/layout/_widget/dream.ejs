@@ -1,0 +1,30 @@
+<div class="dream">
+  <% if (theme.dream.showTitle) { %>
+  <div class="title center-align">
+    <i class="far fa-lightbulb"></i>&nbsp;&nbsp;<%= theme.dream.title %>
+  </div>
+  <% } %>
+  <div class="row">
+    <div
+      id="subtitle"
+      class="col l8 offset-l2 m10 offset-m1 s10 offset-s1 center-align text"
+    >
+      <%= theme.dream.text[0] %>
+    </div>
+  </div>
+</div>
+<script>
+  $(function () {
+    var i = 1;
+    const arrstr = '<%= theme.dream.text.join("#") %>';
+    const arr = arrstr.split('#');
+    $('#indexCard').click(function () {
+      const subtitle = arr[i++];
+      console.log(i, subtitle);
+      $('.text').text(subtitle);
+      if (i == '<%-  theme.dream.text.length  %>') {
+        i = 0;
+      }
+    });
+  });
+</script>
