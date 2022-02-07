@@ -8,7 +8,7 @@
       <link href="/blog-hexo/2022/02/07/gitpod/"/>
       <url>/blog-hexo/2022/02/07/gitpod/</url>
       
-        <content type="html"><![CDATA[<h1 id="啥是-gitpod"><a href="#啥是-gitpod" class="headerlink" title="啥是 gitpod"></a>啥是 gitpod</h1><p>gitpod 是一个集 在线编辑、运行、管理 于一体的在线 vscode</p><h1 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h1><h2 id="将-git-库中的项目用-gitpod-打开"><a href="#将-git-库中的项目用-gitpod-打开" class="headerlink" title="将 git 库中的项目用 gitpod 打开"></a>将 git 库中的项目用 gitpod 打开</h2><p>只需要将 gitpod.io/#放在链接的前面，如</p><ul><li><a href="gitpod.io/#https://github.com/gitpod-io/website">gitpod.io/#https://github.com/gitpod-io/website</a></li></ul><h2 id="很快就下载好了，并且可以使用控制台"><a href="#很快就下载好了，并且可以使用控制台" class="headerlink" title="很快就下载好了，并且可以使用控制台"></a>很快就下载好了，并且可以使用控制台</h2><h2 id="而且可以管理"><a href="#而且可以管理" class="headerlink" title="而且可以管理"></a>而且可以管理</h2><p><a href="https://gitpod.io/workspaces">https://gitpod.io/workspaces</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="啥是-gitpod"><a href="#啥是-gitpod" class="headerlink" title="啥是 gitpod"></a>啥是 gitpod</h1><p>gitpod 是一个集 在线编辑、运行、管理 于一体的在线 vscode</p><h1 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h1><h2 id="将-git-库中的项目用-gitpod-打开"><a href="#将-git-库中的项目用-gitpod-打开" class="headerlink" title="将 git 库中的项目用 gitpod 打开"></a>将 git 库中的项目用 gitpod 打开</h2><p>只需要将 gitpod.io/#放在链接的前面，如</p><ul><li><a href="gitpod.io/#https://github.com/gitpod-io/website">gitpod.io/#https://github.com/gitpod-io/website</a></li></ul><h2 id="很快就下载好了，并且可以使用控制台"><a href="#很快就下载好了，并且可以使用控制台" class="headerlink" title="很快就下载好了，并且可以使用控制台"></a>很快就下载好了，并且可以使用控制台</h2><h2 id="而且可以管理"><a href="#而且可以管理" class="headerlink" title="而且可以管理"></a>而且可以管理</h2><p><a href="https://gitpod.io/workspaces">https://gitpod.io/workspaces</a></p><h1 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h1><ol><li>速度很快</li><li>在线运行、编辑</li></ol>]]></content>
       
       
       
@@ -49,19 +49,6 @@
             <tag> blog </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>my-life</title>
-      <link href="/blog-hexo/2022/01/25/my-life/"/>
-      <url>/blog-hexo/2022/01/25/my-life/</url>
-      
-        <content type="html"><![CDATA[<p>干啥呢老哥</p><pre class="line-numbers language-js" data-language="js"><code class="language-js">heelo world<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
-      
-      
       
     </entry>
     
